@@ -5,5 +5,7 @@ public class FirstClass {
 
 
         System.out.println("First Class");
+        
+          System.out.println("First Class");
     }
 }
